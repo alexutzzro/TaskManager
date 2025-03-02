@@ -146,4 +146,4 @@ Fiecare execuție a scriptului generează log-uri care sunt:
 
 ## Licență
 
-Acest proiect este realizat în cadrul disciplinei **Sisteme de Operare 1** din cadrul Facultății de Matematică și Informatică, Universitatea de Vest din Timișoara.
+Acest proiect a fost realizat în cadrul disciplinei **Sisteme de Operare 1** din cadrul Facultății de Matematică și Informatică, Universitatea de Vest din Timișoara.
